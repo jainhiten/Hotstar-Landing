@@ -7,7 +7,8 @@ let movies = [
     {
         name: "Loki",
         des: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit porro et veniam excepturi, eaque voluptatem impedit nulla laboriosam facilis ut laboriosam libero!',
-        image: "/images/slider 1.PNG"    },
+        image: "/images/slider 1.PNG"    
+    },
     {
         name: "wanda vision",
         des: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit porro et veniam excepturi, eaque voluptatem impedit nulla laboriosam facilis ut laboriosam libero!',
